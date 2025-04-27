@@ -72,5 +72,6 @@ zypher/
 
 ## OUTPUT
 
-Landing Page ![Image](https://github.com/user-attachments/assets/79061ced-5b42-4384-b6eb-3043eb04e3ad) | Chat Window |
+Landing Page ![Image](https://github.com/user-attachments/assets/79061ced-5b42-4384-b6eb-3043eb04e3ad) 
+Chat Window ![Image](https://github.com/user-attachments/assets/9265ba7b-9e2b-4d72-9fa8-592f5247beac)
 
