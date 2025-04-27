@@ -17,21 +17,21 @@ It provides an interactive and animated chatting experience with smooth transiti
 
 ## Features
 
--Enter username and join the chat room
--Real-time message sending (local simulation for now)
--Smooth animated entry and message popups using GSAP
--Welcome message from Zypher Bot
--Ability to logout and reset the chat
--Clean and responsive design using Tailwind CSS
--Auto-scroll to latest messages
--Input validation to prevent empty messages
+- Enter username and join the chat room
+- Real-time message sending (local simulation for now)
+- Smooth animated entry and message popups using GSAP
+- Welcome message from Zypher Bot
+- Ability to logout and reset the chat
+- Clean and responsive design using Tailwind CSS
+- Auto-scroll to latest messages
+- Input validation to prevent empty messages
 
 ## Technologies Used
 
--React.js
--Tailwind CSS
--GSAP (GreenSock Animation Platform)
--Vite (for faster development)
+- React.js
+- Tailwind CSS
+- GSAP (GreenSock Animation Platform)
+- Vite (for faster development)
 
 ## Installation
 
