@@ -70,3 +70,7 @@ zypher/
 ├── vite.config.js
 └── README.md
 
+## OUTPUT
+
+Landing Page | Chat Window |
+
